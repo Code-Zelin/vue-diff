@@ -1,0 +1,16 @@
+{
+  "name": "vue-diff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  },
+  "scripts": {
+    "start": "webpack --mode development --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
